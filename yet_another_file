@@ -1,0 +1,8 @@
+a9ab369 add test file to merge
+23a8d9f Merge branch 'feature-1'
+8598a6c Merge branch 'bugfix' into feature-1
+94036fd Add ignore rules for idea files
+f1d3532 Add VK to contacts
+72fcb9e Add contacts
+ba5585b Add .gitignore file
+5777afd Init repo with readme
